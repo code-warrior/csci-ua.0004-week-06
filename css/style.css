@@ -24,6 +24,8 @@ main {
    height: 100vh;
    justify-content: center;
    align-items: flex-start;
+   /* align-items: flex-end; */
+   /* align-items: center; */
 }
 
 img {
