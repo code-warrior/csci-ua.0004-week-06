@@ -37,7 +37,12 @@ h2 {
 main {
    border: 1px solid black;
    display: flex;
-   justify-content: space-around;
+   justify-content: flex-start; /* The default */
+   /* justify-content: flex-end; */
+   /* justify-content: center; */
+   /* justify-content: space-between; */
+   /* justify-content: space-around; */
+   /* justify-content: space-evenly; */
 }
 
 footer p:first-of-type {
