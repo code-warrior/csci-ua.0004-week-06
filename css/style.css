@@ -30,9 +30,8 @@ h2 {
 }
 
 /*
-   Setting display to flex makes all its direct children (<div>) flex children.
-   Further, any space left over when the flex children are laid out will be equally
-   spaced around each flex child.
+   Comment out, one by one, each declaration below in order to see how each property
+   value affects flex children.
 */
 main {
    border: 1px solid black;
