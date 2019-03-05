@@ -35,6 +35,7 @@ h2 {
    spaced around each flex child.
 */
 main {
+   border: 1px solid black;
    display: flex;
    justify-content: space-around;
 }
