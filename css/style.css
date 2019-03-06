@@ -18,3 +18,10 @@ h1 {
 p {
    margin: 20px 0;
 }
+
+a {
+   background-color: #eee;
+   display: block;
+   font-weight: 400;
+   text-decoration: none;
+}
