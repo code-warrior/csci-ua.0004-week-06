@@ -2,6 +2,11 @@ h1 {
    text-align: center;
 }
 
+main {
+   width: 979px; /* 975px + 4px generates by white space between inline elements */
+   margin: auto;
+}
+
 img {
    height: 468px;
 }
