@@ -1,0 +1,42 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-weight: 200;
+   margin: auto;
+   width: 960px;
+}
+
+h1 {
+   font-family: 'Patua One', cursive;
+   font-size: 72px;
+   margin-bottom: 22px;
+   margin-top: 22px;
+   text-align: center;
+}
+
+main {
+   border: 1px solid black;
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: flex-start;
+   /* align-items: flex-end; */
+   /* align-items: center; */
+}
+
+img {
+   width: 300px;
+}
+
+footer {
+   text-align: center;
+}
+
+.photo-credit {
+   font-size: 12px;
+   text-align: center;
+}
